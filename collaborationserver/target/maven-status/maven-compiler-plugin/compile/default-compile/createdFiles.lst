@@ -1,0 +1,10 @@
+com\collaborationserver\service\BlogPostService.class
+com\collaborationserver\model\BlogPost.class
+com\collaborationserver\controller\UserController.class
+com\collaborationserver\model\Users.class
+com\collaborationserver\dao\UserServiceImpl.class
+com\collaborationserver\service\UserService.class
+com\collaborationserver\dao\BlogPostImpl.class
+com\collaborationserver\config\AppInitializer.class
+com\collaborationserver\config\AppConfig.class
+com\collaborationserver\model\UserCredentials.class
